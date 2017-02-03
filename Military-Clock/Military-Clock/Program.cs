@@ -12,12 +12,16 @@
                  - If you can make it dynamic, you might as well.
  */
 
+using System;
+
 namespace Military_Clock
 {
     class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("My new Program");
+            Console.ReadKey();
         }
     }
 }
