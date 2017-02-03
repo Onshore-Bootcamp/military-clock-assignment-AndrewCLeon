@@ -21,6 +21,7 @@ namespace Military_Clock
         static void Main(string[] args)
         {
             Console.WriteLine("My new Program");
+            Console.WriteLine("Branch only");
             Console.ReadKey();
         }
     }
